@@ -6,7 +6,7 @@
 			<artifactId>spring-boot-starter-validation</artifactId>
 	</dependency>
 
-<h3>Bu işlemin ardından <a href="https://github.com/ibrhmusta/regex-example/blob/master/src/main/java/regex/example/core/ExceptionHandlerClass.java"><b>ExpectonHandlerClass</b></a> sınıfımızı projemize dahil edelim. Bu sınıf içinde bulundurduğu metod sayesinde @Pattern anotasyonu içine yazdığımız formatı kontrol ettikten sonra hata kontrolu yapmamızı sağlıyor.</h3> 
+<h3>Bu işlemin ardından <a href="https://github.com/ibrhmusta/regex-example/blob/master/src/main/java/regex/example/core/ExceptionHandlerClass.java"><b>ExpectonHandlerClass</b></a> sınıfımızı projemize dahil edelim. Bu sınıf içinde bulundurduğu metod sayesinde @Pattern anotasyonu içine yazdığımız formata göre kontrol ettikten sonra hata fırlatmamızı sağlıyor.</h3> 
 
 <p align="center">
   <img src="https://github.com/ibrhmusta/regex-example/blob/master/readme-images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202021-05-28%20075602.png" width="600" alt="main">
